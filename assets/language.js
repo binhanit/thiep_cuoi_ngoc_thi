@@ -15,7 +15,7 @@ const translations = {
         },
         hero: {
             wedding: "Đám Cưới",
-            date: "30 Tháng 11, 2025"
+            date: "29 Tháng 11, 2025"
         },
         countdown: {
             title: "Đếm Ngược Đến Ngày Trọng Đại",
@@ -62,9 +62,9 @@ const translations = {
         venue: {
             title: "Địa Điểm Tổ Chức",
             restaurant: "",
-            venueName: "TƯ GIA NHÀ TRAI",
-            address: "Ấp Hòa Quý, Xã Hòa Khánh, Huyện Cái Bè, Tỉnh Tiền Giang",
-            time: "11:00 - 30/11/2025",
+            venueName: "TƯ GIA NHÀ GÁI",
+            address: "Ấp 4, Xã Mỹ Thành Bắc, Huyện Cai Lậy, Tỉnh Tiền Giang",
+            time: "15:00 & 19:00 - 30/11/2025",
             viewMap: "Xem Bản Đồ"
         },
         rsvp: {
@@ -100,10 +100,10 @@ const translations = {
             bank: "Ngân hàng:",
             bankNameGroom: "VPBank",
             accountGroom: "186735439",
-            accountHolderGroom: "PHAN CONG HAU",
-            bankNameBride: "Vietcombank",
-            accountBride: "1036060991",
-            accountHolderBride: "PHAN CONG HAU",
+            accountHolderGroom: "NGUYEN NGOC THI",
+            bankNameBride: "Techcombank",
+            accountBride: "4863262626",
+            accountHolderBride: "NGUYEN NGOC THI",
             copyButton: "Sao chép STK",
             qrLabel: "Quét mã QR để chuyển khoản",
             note: "Sự hiện diện của quý khách là món quà ý nghĩa nhất với chúng tôi!"
@@ -118,11 +118,11 @@ const translations = {
             respectfullyInvite2: "Trân trọng kính mời Quý Khách đến dự hôn lễ của",
             toOurWedding: "đến hôn lễ của",
             clickHint: "Nhấp vào phong thư để mở thiệp mời",
-            letterDate: "30.11.2025",
+            letterDate: "29.11.2025",
             cardTitle: "THIỆP MỜI ĐÁM CƯỚI",
             infoTitle: "THÔNG TIN ĐÁM CƯỚI",
-            weddingDate: "Chủ Nhật, 30 Tháng 11, 2025",
-            weddingTime: "11:00 Giờ",
+            weddingDate: "Thứ Bảy, 29 Tháng 11, 2025",
+            weddingTime: "15:00 & 19:00",
             quote: '"Hạnh phúc không phải là điểm đến, mà là hành trình \n Và chúng tôi đã tìm thấy bạn đồng hành"',
             groomFamily: "Gia Đình Chú Rể",
             groomFather: "Ông: Phan Văn Ri",
@@ -198,7 +198,7 @@ const translations = {
         venue: {
             title: "Venue",
             restaurant: "",
-            venueName: "TƯ GIA NHÀ TRAI",
+            venueName: "TƯ GIA NHÀ GÁI",
             address: "Ấp Hòa Quý, Xã Hòa Khánh, Huyện Cái Bè, Tỉnh Tiền Giang",
             viewMap: "View Map"
         },
@@ -233,12 +233,12 @@ const translations = {
             groom: "Groom",
             bride: "Bride",
             bank: "Bank:",
-            bankNameGroom: "VPBank",
-            accountGroom: "186735439",
-            accountHolderGroom: "PHAN CONG HAU",
-            bankNameBride: "Vietcombank",
-            accountBride: "1036060991",
-            accountHolderBride: "PHAN CONG HAU",
+            bankNameGroom: "Techcombank",
+            accountGroom: "4863262626",
+            accountHolderGroom: "NGUYEN NGOC THI",
+            bankNameBride: "Techcombank",
+            accountBride: "4863262626",
+            accountHolderBride: "NGUYEN NGOC THI",
             copyButton: "Copy Account",
             qrLabel: "Scan QR code to transfer",
             note: "Your presence is the most meaningful gift to us!"

@@ -43,7 +43,7 @@ function doPost(e) {
  */
 
 // IMPORTANT: Replace this with your Google Apps Script Web App URL
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbypq9e7xYTbjhZuGrzn4XqTgLqnf52g6GthY2tzXZGf7x0unVeLY8WOJqoJ6gU82pN0/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwi1XZFhAshEBICsOtO0YtxULg6uHQRnVFv6j8XK3uXe5k8BOaWjF2oGUkNaUokTWc/exec';
 
 // Form elements
 let form, submitBtn, formStatus;
