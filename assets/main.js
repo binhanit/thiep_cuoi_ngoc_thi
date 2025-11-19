@@ -298,7 +298,7 @@ function setVenueMapEmbed() {
         return;
     }
 
-    const embedUrl = 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3925.025849858692!2d106.00475759999999!3d10.339816299999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310a9b145d5e68ab%3A0x74034030ff94f9e2!2zSOG6rXUgUGhhbg!5e0!3m2!1sen!2s!4v1763479419766!5m2!1sen!2s';
+    const embedUrl = 'https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4827.790099980688!2d106.014127!3d10.458239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTDCsDI3JzI5LjciTiAxMDbCsDAwJzUwLjkiRQ!5e1!3m2!1sen!2s!4v1763571943169!5m2!1sen!2s';
 
     iframe.setAttribute('src', embedUrl);
     iframe.setAttribute('width', '600');
